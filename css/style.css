@@ -22,8 +22,8 @@ html {
 }
 
 #contact{
-        background: url("../img/2_Fotor.jpg") no-repeat bottom center scroll;
-}
+        background: url("../img/teste2.jpg") no-repeat bottom center scroll;
+    }
 
 h1,
 h2,
@@ -36,14 +36,14 @@ h6 {
     margin: 0 0 35px;
     letter-spacing: 1px;
     text-transform: uppercase;
-    color:black;
+    color:white;
 }
 
 p {
     font-size: 16px;
     line-height: 1.5;
     margin: 0 0 25px;
-    color: black;
+    color: white;
 }
 
 @media (min-width: 768px) {
@@ -205,8 +205,8 @@ a:hover {
 }
 
 .download-section {
-    color: black;
-    background: url("../img/novos-compositores.jpg") no-repeat center center scroll;
+    color: white;
+    background: url("../img/disco.jpg") no-repeat center center scroll;
     background-color: black;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -216,7 +216,7 @@ a:hover {
 
 #map {
     width: 100%;
-    height: 300px;
+    height: 100px;
 }
 
 @media (min-width: 992px) {
@@ -312,6 +312,11 @@ body {
 
 #about {
     color: white;
-    background-image: url("../img/novos-compositores.jpg");
+    background: url("../img/novos-compositores.jpg") no-repeat center center scroll;
+    background-color: black;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 /* Fim do meu CSS */
